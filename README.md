@@ -13,7 +13,7 @@ Hello, world! 👾<br>I live to break barriers and expose vulnerabilities. As a 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PSYBEAST-GIT&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PSYBEAST-GIT&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
